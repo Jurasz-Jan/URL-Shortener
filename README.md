@@ -21,6 +21,6 @@ A simple Node.js microservice for shortening URLs. Users can convert long URLs i
 2. Run `npm install` and `npm start`.
 3. Access at `http://localhost:3000`.
 
-Badge received:
+### Badge received:
 
 ![image](https://github.com/user-attachments/assets/3051e1d5-c3e8-4f80-bc69-37d722abaa9b)
